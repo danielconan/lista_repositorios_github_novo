@@ -1,1 +1,1 @@
-const api = "http://api.github.com.br";
+const api = "http://api.github.com.br/repositorios";
